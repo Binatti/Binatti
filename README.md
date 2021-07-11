@@ -14,5 +14,6 @@
 </div>
  
  <div style="display: inline_block"><hr><br>
-  <img align="center" alt="Mari-yoda" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif">
+  <img align="center" alt="Mari-yoda" src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif">
+
 </div>
