@@ -1,4 +1,4 @@
-### Hi, I'm Binatti 👋
+### Hi, I'm Mari 👋
 
  <div>
   <a href="https://github.com/Binatti">
