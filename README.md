@@ -1,4 +1,4 @@
-### <"Hi, I'm Mari">
+### "Hi, I'm Mari"
 
                                                      ### Welcome to my profile
 
