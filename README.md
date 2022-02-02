@@ -9,7 +9,7 @@
  </div>
  
   <div>
- I am new in programming world, but already a lover of it. <br> I'm curious and I'm always looking to expand my knowledge. <br>Currently studying German languague and learning about programming <br><hr>
+ I am new in programming world, but already a lover of it. <br> I'm curious and I'm always looking to expand my knowledge. <br><hr>
  <br>
   <a href="https://github.com/Binatti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Binatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
